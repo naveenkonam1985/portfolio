@@ -1,7 +1,7 @@
 # Streamlit app for Portfolio
 import streamlit as st
 
-col1,col2 = st.columns([0.3,0.7])
+col1,col2 = st.columns([0.4,0.6])
 
 with col1:
   st.title("Hey, I'm Naveen Kumar Konam")
