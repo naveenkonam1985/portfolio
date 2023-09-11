@@ -22,5 +22,5 @@ with col2:
   st.markdown("## Projects")
   st.markdown("### Table Crawler")
   st.write("Table Crawler is a simple project to scrape the tables from webpages without writing code")
-  st.markdown("![Table Crawler]https://tablecrawler.streamlit.app/")
+  st.markdown("[Table Crawler]https://tablecrawler.streamlit.app/")
 
