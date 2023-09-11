@@ -6,7 +6,8 @@ st.set_page_config(page_title="NaveenKumar", page_icon=None, layout="wide", init
 col1,col2 = st.columns([0.4,0.6])
 
 with col1:
-  st.title("Hey, I'm Naveen Kumar Konam")
+  st.header("hey, I'm")
+  st.title("Naveen Kumar Konam")
   st.header("Data Engineer")
 
   st.markdown("#### Skills")
